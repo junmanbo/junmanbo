@@ -19,10 +19,9 @@
 [<img align="left" alt="Hugo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />]
-
-<!-- [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />] -->
-<!-- [<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />] -->
-<!-- [<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />] -->
+[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
 <br />
 <br />
 
