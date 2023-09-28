@@ -1,4 +1,4 @@
-# Hi there, I'm Jun👋
+![jun_banner](https://github.com/junmanbo/junmanbo/assets/60846847/0e2a39ad-a3a1-4e80-a159-67881de1bbb6)
 
 ## I'm a Developer and Marathoner
 
