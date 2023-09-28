@@ -28,6 +28,18 @@
 
 ---
 
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+
+| 💻 **Technology**                                                                                                                               | 🚀 **Projects**                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/)          | [![upbit-autotrading](https://img.shields.io/static/v1?label=&message=upbit-autotrading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/junmanbo/upbit-autotrading) |
+| [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![tutong](https://img.shields.io/static/v1?label=&message=tutong&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/junmanbo/tutong)                                  |
+| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/)           | [![dotfiles](https://img.shields.io/static/v1?label=&message=dotfiles&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/junmanbo/dotfiles)                            |
+
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
