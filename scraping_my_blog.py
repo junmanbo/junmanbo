@@ -11,8 +11,9 @@ def scrape_blog_updates():
     posts = []
     for article in articles:
         title = article.find("h2", class_="article-title").text.strip()
+        link = URL + article.find("a")["href"]
         date = article.find("time", class_="article-time--published").text.strip()
-        posts.append(f"* {title} - {date}")
+        posts.append(f"[{title} - {date}]({link})")
 
     return "\n".join(posts)
 
