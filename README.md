@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Marathoner
 
-- ✨ Keep It Simple, Stupid 이 모토에요
+- ✨ Keep It Simple, Stupid 이 모토예요
 - ⚡ 달리기랑 주짓수를 좋아해요
 - 🥅 2023 목표: Raspberry Pi로 스마트홈 만들어서 자동화 시키기
 - 🌱 금융 데이터 분석에 관심이 많아서 퀀트 트레이딩을 공부하고 있어요.
