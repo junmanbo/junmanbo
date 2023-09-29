@@ -17,4 +17,4 @@ def scrape_blog_updates():
     return "\n".join(posts)
 
 
-# print(scrape_blog_updates())
+print(scrape_blog_updates())
