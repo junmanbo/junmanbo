@@ -2,7 +2,7 @@ name: Update README with latest blog posts
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 매시간 정각에 실행
+    - cron: '0 0 * * *'  # 매시간 정각에 실행
 
 jobs:
   update-readme:
@@ -29,7 +29,9 @@ jobs:
       - name: Update README
         run: |
           sed '/BLOG-POST-LIST:START/q' README.md > temp.md
-          echo "${{ steps.fetch-blog-posts.outputs.stdout }}" > temp.md
+          echo '<!-- BLOG-POST-LIST:START -->' >> temp.md
+          echo "${{ steps.fetch-blog-posts.outputs.stdout }}" >> temp.md
+          echo '<!-- BLOG-POST-LIST:END -->' >> temp.md
           tail -n +$(($(sed -n '/BLOG-POST-LIST:END/=' README.md) + 1)) README.md >> temp.md
           mv temp.md README.md
 
