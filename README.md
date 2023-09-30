@@ -43,9 +43,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-[Server 보안 설정 - Sep 20, 2023](https://junmanbo.github.io/categories/infra/)\
-[Markdown Syntax Guide - Mar 11, 2019](https://junmanbo.github.io/p/markdown-syntax-guide/)
+<!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
