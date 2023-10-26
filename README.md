@@ -18,12 +18,14 @@
   <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" style="padding-right:5px;" />
 
+<br />
 - Languages:
   <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:5px;" />
   <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:5px;" />
 
+<br />
 - Frameworks:
   <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:5px;" />
@@ -46,7 +48,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/)          | [![upbit-autotrading](https://img.shields.io/static/v1?label=&message=upbit-autotrading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/junmanbo/upbit-autotrading) |
 | [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![tutong](https://img.shields.io/static/v1?label=&message=tutong&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/junmanbo/tutong)                                  |
-| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=515753&logo=Flask&logoColor=FFFFFF)](https://github.com/pallets/flask)    | [![It-GGi](https://img.shields.io/static/v1?label=&message=tutong&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/BookChatbot/itggi-api)                            |
+| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=515753&logo=Flask&logoColor=FFFFFF)](https://github.com/pallets/flask)    | [![It-GGi](https://img.shields.io/static/v1?label=&message=It-GGi&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/BookChatbot/itggi-api)                            |
 | [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/)           | [![dotfiles](https://img.shields.io/static/v1?label=&message=dotfiles&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/junmanbo/dotfiles)                            |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
