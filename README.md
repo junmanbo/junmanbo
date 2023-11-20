@@ -1,11 +1,11 @@
-![jun_banner](https://github.com/junmanbo/junmanbo/assets/60846847/0e2a39ad-a3a1-4e80-a159-67881de1bbb6)
+![jun_banner](./img/kbj_banner.png)
 
-## I'm a Developer and Marathoner
+## I'm a DevOps devloper
 
 - ✨ Keep It Simple, Stupid 이 모토예요
 - ⚡ 달리기랑 주짓수를 좋아해요
-- 🥅 2023 목표: Raspberry Pi로 스마트홈 만들어서 자동화 시키기
-- 🌱 금융 데이터 분석에 관심이 많아서 퀀트 트레이딩을 공부하고 있어요.
+- 🥅 2024 목표: CKA, AWS developer associate 취득하기
+- 🌱 금융 데이터 분석에도 관심이 많아서 퀀트 트레이딩을 공부하고 있어요.
 
 ### Languages and Tools:
 
@@ -17,13 +17,14 @@
   <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:5px;" />
-  <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" style="padding-right:5px;" />
+  <img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" style="padding-right:5px;" />
 
 <br />
 
 - Languages:
   <br />
   <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:5px;" />
+  <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:5px;" />
   <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:5px;" />
@@ -33,14 +34,10 @@
 - Frameworks:
   <br />
   <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:5px;" />
-  <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:5px;" />
   <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:5px;" />
-  <img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Hugo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" style="padding-right:5px;" />
   <img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:5px;" />
 
-<!-- <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:5px;" /> -->
-<!-- <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:5px;" /> -->
 
 <br />
 <br />
