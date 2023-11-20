@@ -1,6 +1,6 @@
 ![jun_banner](./img/kbj_banner.png)
 
-## I'm a DevOps devloper
+## I'm a DevOps engineer
 
 - ✨ Keep It Simple, Stupid 이 모토예요
 - ⚡ 달리기랑 주짓수를 좋아해요
